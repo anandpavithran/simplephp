@@ -1,11 +1,3 @@
-<!DOCTYPE HTML>  
-<html>
-<head>
-</head>
-<body>  
 <?php
-GREEN
+print "Hello, World! php version is " . PHP_VERSION . "\n";
 ?>
-
-</body>
-</html>
